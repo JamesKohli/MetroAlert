@@ -1,0 +1,25 @@
+{
+  "name": "MetroAlert",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.8",
+    "jade": "^1.1.5"
+  },
+  "description": "MetroAlert\r ==========",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JamesKohli/MetroAlert.git"
+  },
+  "author": "James Kohli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesKohli/MetroAlert/issues"
+  },
+  "homepage": "https://github.com/JamesKohli/MetroAlert"
+}
